@@ -1,3 +1,4 @@
-Hi there!
-
-I am a third-year PhD candicate at Northwestern University.
+✨ Hi there 👋
+Access my full profile here --  https://www.payalmohapatra.me/
+⚡ I work on machine learning for sensor data, speech disfluency and continuous health monitoring.
+😄 Pronouns: she / her
